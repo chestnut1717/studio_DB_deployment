@@ -1,0 +1,22 @@
+version: "3.7"
+
+services:
+    flask:
+        platform: linux/amd64
+        build: ./flask
+        image: psh0855/flask:init
+        container_name: flask
+        restart: always
+        environment:
+            - APP_NAME=FlaskTest
+        expose:
+            - 5000
+
+    nginx:
+        platform: linux/amd64
+        build: ./nginx
+        image: psh0855/nginx:init
+        container_name: nginx
+        restart: always
+        ports:
+            - "80:80"
