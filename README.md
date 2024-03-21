@@ -48,8 +48,7 @@
 
 ## 💡 Outcome
 
-### 시연영상 : https://drive.google.com/file/d/1CNiwVWbYRnnWpt8giCpaEeRZPa_vlQdY/view
-
+### 시연영상 : https://drive.google.com/file/d/1MBwqisq-QUaIb4FjrqS3B25x9Xk3tOkp/view?usp=sharing
 ### 1) 필터링 기능
 ![필터링](https://github.com/chestnut1717/studio_DB_deployment/assets/62554639/646b62d8-fb3c-468d-a25b-53363407a112)
 
